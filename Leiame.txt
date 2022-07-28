@@ -1,0 +1,14 @@
+npx : utilizado para simplesmente criar, diferente do npm que instala.
+
+React: Duas características principais, componentização e reação.
+
+Arquivo package.json - é padrão para qualquer projeto que utilize o npm
+Arquivo tsconfig.json - É o arquivo de configuração do typeScript
+
+
+-------------------------------------------------------------------------
+npx create-react-app alura-studies --template typescript --use-npm 
+
+cd alura-studies
+
+npm start
