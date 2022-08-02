@@ -12,3 +12,5 @@ npx create-react-app alura-studies --template typescript --use-npm
 cd alura-studies
 
 npm start
+
+npm install --save-dev sass
